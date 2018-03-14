@@ -1,5 +1,15 @@
 # Empathy Driven Development: Making the Web Accessible to All, Resources & Notes
 
+## shared user experiences
+
+Browse and use your web sites and apps with:
+
+* keyboard only
+* a screen reader
+* noise cancelling headphones
+* different spectrum settings
+* throttled cpu and/or network
+
 ## web a11y general resources
 
 * [Awesome a11y list](http://brunopulis.com/awesome-a11y/)
